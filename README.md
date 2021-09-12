@@ -1,2 +1,2 @@
 # Pandas
-**Will add to this once the tutorials are done**
+**Will make this md file more interesting once all the vids are done :)**
