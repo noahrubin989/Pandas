@@ -1,2 +1,2 @@
 # Pandas
-**A guide into how to work with the pandas library. Hope you enjoy :)**
+**A guide for how to work with the pandas library. Hope you enjoy :)**
