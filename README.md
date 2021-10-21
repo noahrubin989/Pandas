@@ -1,2 +1,2 @@
 # Pandas
-**Will make this file more interesting once the vids are done :)**
+**A guide into how to work with the pandas library. Hope you enjoy :)**
