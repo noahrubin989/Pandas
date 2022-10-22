@@ -1,4 +1,4 @@
-Institution,Course Number,Launch Date,Course Title,Instructors,Course Subject,Participants (Course Content Accessed),Total Course Hours (Thousands),% Female,% Bachelor's Degree or Higher
+Institution,Course Number,Launch Date,Course Title,Instructors,Course Subject,participants,Total Course Hours (Thousands),% Female,% Bachelor's Degree or Higher
 MITx,6.002x,09/05/2012,Circuits and Electronics,Khurram Afridi,"Science, Technology, Engineering, and Mathematics",36105,418.94,11.72,60.68
 MITx,6.00x,09/26/2012,Introduction to Computer Science and Programming,"Eric Grimson, John Guttag, Chris Terman",Computer Science,62709,884.04,16.5,63.04
 MITx,3.091x,10/09/2012,Introduction to Solid State Chemistry,Michael Cima,"Science, Technology, Engineering, and Mathematics",16663,227.55,29.68,58.76
